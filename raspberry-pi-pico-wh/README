@@ -1,0 +1,13 @@
+# Host OS
+> cat /etc/fedora-release 
+Fedora release 39 (Thirty Nine)
+
+# IDE
+> flatpak list | grep Thonny
+Thonny	org.thonny.Thonny	4.1.4	stable	system
+
+# Language
+MicroPython v1.22.1 on 2024-01-05
+
+# Board
+Raspberry Pi Pico W with RP2040
