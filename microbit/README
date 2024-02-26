@@ -1,0 +1,13 @@
+# Host OS
+> cat /etc/fedora-release 
+Fedora release 39 (Thirty Nine)
+
+# IDE
+> flatpak list | grep Thonny
+Thonny	org.thonny.Thonny	4.1.4	stable	system
+
+# Language
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01
+
+# Board
+micro:bit v1.1.1 with nRF51822
